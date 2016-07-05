@@ -1,0 +1,17 @@
+{
+  "name": "po",
+  "description": "a",
+  "main": "bin/www",
+  "authors": [
+    "zhanghang <mike.zhang@yeamoney.cn>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
